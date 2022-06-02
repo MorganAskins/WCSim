@@ -1,5 +1,6 @@
 #include "G4ios.hh"
 #include "G4RunManager.hh"
+#include "G4VisManager.hh"
 #include "G4UImanager.hh"
 #include "G4UIterminal.hh"
 #include "G4UItcsh.hh"

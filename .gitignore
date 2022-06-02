@@ -10,6 +10,7 @@ make.result
 bin/
 tmp/
 doxygen/
+build/
 
 #ignore run results
 *.root
